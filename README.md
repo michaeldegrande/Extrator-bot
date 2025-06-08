@@ -1,6 +1,6 @@
 Esse é um bot que acessa o site da Loteria da Flórida,
 baixa o pdf com todos os sorteios anteriores da modalidade Cash4life, 
-faz uma raspagem nos dados contidos no pdf e tranforma ewm uma tabela
+faz uma raspagem nos dados contidos no pdf e tranforma em uma tabela
 do excel.
 
 A linguagem usada foi o Python, por contar com os mecanismos corretos
